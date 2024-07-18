@@ -1,1 +1,2 @@
 # fynnlab_intern
+I have uploaded a Python code file as part of my Fynn Lab internship. This code file includes data manipulation and visualization using pandas, seaborn, and matplotlib libraries. The file demonstrates merging multiple DataFrames and creating a scatter plot for data analysis. It aims to provide insights into the fast food dataset by evaluating segments based on visit frequency and user preferences.
